@@ -1,0 +1,17 @@
+.main {
+  height: 644px;
+  width: 100%;
+}
+
+.navigation {
+  display: flex;
+  justify-content: space-around;
+  width: 600px;
+}
+
+.main main {
+  margin: 0 auto;
+  width: 1000px;
+  display: flex;
+  justify-content: space-around;
+}
