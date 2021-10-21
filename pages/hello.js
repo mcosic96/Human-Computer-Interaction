@@ -1,5 +1,9 @@
 import React from "react";
 
-const Hello = () => <h1>Hello World</h1>;
+import Header from "../modules/header/header.js";
+
+const Hello = () => {
+  return <Header />;
+};
 
 export default Hello;
